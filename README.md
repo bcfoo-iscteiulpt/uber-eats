@@ -1,6 +1,6 @@
 # Uber Eats
 
-### [Demo](https://dimavasilenko.github.io/sports-app-landing/src/index.html)
+### [Demo](https://dimavasilenko.github.io/uber_eats/src/index.html)
 
 ### Description
 
