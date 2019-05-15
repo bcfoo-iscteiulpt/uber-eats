@@ -1,0 +1,20 @@
+@import "variables.css";
+@import "components/header/header.css";
+@import "components/search/search.css";
+@import "components/delivery-terms/delivery-terms.css";
+@import "components/authorization-options/authorization-options.css";
+@import "components/card/card.css";
+@import "components/footer/footer.css";
+@import "components/restaurant-choose/restaurant-choose.css";
+@import "components/restaurant-preview/restaurant-preview.css";
+@import "components/restaurant-menu/restaurant-menu.css";
+@import "components/restaurant-card/restaurant-card.css";
+
+* {
+  box-sizing: border-box;
+  font-family: var(--main_font);
+}
+
+body {
+  margin: 0;
+}
