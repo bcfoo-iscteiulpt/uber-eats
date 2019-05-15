@@ -1,13 +1,13 @@
-# Project Name
+# Uber Eats
 
-### [Demo](https://link-to-github-pages.com)
+### [Demo](https://dimavasilenko.github.io/sports-app-landing/src/index.html)
 
 ### Description
 
-Tell about your project
+Layout of Uber_eats
 
 ### Technologies are used
 
 - HTML
-- CSS
-- ...
+- CSS (with flexbox)
+- BEM methodology
